@@ -45,20 +45,5 @@ The frontend will display both the original image and the detected image with fr
 ![image](https://github.com/user-attachments/assets/9b952f40-196b-4a4d-8fe7-2fc0d4b3344c)
 
 
-**Files**
-app.py: The main Python file for the frontend application.
-requirements.txt: Lists the Python packages required for the project.
-dataset/: Directory for the dataset downloaded from Kaggle.
-detected_images/: Directory for saving images with detection results.
-Dataset
-The dataset for this project can be downloaded from Kaggle. It includes images and annotations used for training and testing the YOLOv8 model.
 
-Contributing
-Contributions are welcome! To contribute:
-
-**Fork the repository.**
-Create a new branch for your changes.
-Commit your changes and push to your fork.
-Submit a pull request.
-For issues or feature requests, open an issue on GitHub.
 
