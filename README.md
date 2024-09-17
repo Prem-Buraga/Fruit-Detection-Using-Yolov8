@@ -25,20 +25,20 @@ This project leverages YOLOv8 (You Only Look Once version 8) to detect fruits in
    ```bash
    git clone https://github.com/YourGitHubUsername/Fruit-Detection-Using-YOLOv8.git
    cd Fruit-Detection-Using-YOLOv8
-Prepare the Dataset
+## Prepare the Dataset
 
-Download the dataset from Kaggle and place it in the appropriate directory.
+Download the dataset from [Kaggle](https://www.kaggle.com/datasets/premiugv/fruit-detection-with-yolov8) and place it in the appropriate directory.
 
 Run the Application
 
-Start the application by running:
+**Start the application by running:**
 
 bash
 Copy code
 python app.py
 This will launch the web application, allowing you to upload images and view the results of fruit detection.
 
-**View Detected Images**
+## View Detected Images
 
 The frontend will display both the original image and the detected image with fruits highlighted by bounding boxes.
 ![image](https://github.com/user-attachments/assets/4ed274af-dadf-4444-8205-796f9a7f395a)
